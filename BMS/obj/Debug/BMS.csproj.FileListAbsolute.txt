@@ -1,0 +1,98 @@
+D:\dotnet files\BMS\BMS\bin\Debug\BMS.exe.config
+D:\dotnet files\BMS\BMS\bin\Debug\BMS.exe
+D:\dotnet files\BMS\BMS\bin\Debug\BMS.pdb
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.csproj.AssemblyReference.cache
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.csproj.SuggestedBindingRedirects.cache
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.Properties.Resources.resources
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.csproj.GenerateResource.cache
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.csproj.CoreCompileInputs.cache
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.exe
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.pdb
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.home.resources
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.add_pd.resources
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.login.resources
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.new_gdlog.resources
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.calculators.resources
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.update_qm.resources
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.update_armoury.resources
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.Form1.resources
+D:\dotnet files\BMS\BMS\bin\Debug\BouncyCastle.Crypto.dll
+D:\dotnet files\BMS\BMS\bin\Debug\Google.Protobuf.dll
+D:\dotnet files\BMS\BMS\bin\Debug\K4os.Compression.LZ4.dll
+D:\dotnet files\BMS\BMS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\dotnet files\BMS\BMS\bin\Debug\K4os.Hash.xxHash.dll
+D:\dotnet files\BMS\BMS\bin\Debug\MySql.Data.dll
+D:\dotnet files\BMS\BMS\bin\Debug\System.Buffers.dll
+D:\dotnet files\BMS\BMS\bin\Debug\System.Memory.dll
+D:\dotnet files\BMS\BMS\bin\Debug\System.Numerics.Vectors.dll
+D:\dotnet files\BMS\BMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dotnet files\BMS\BMS\bin\Debug\BouncyCastle.Crypto.xml
+D:\dotnet files\BMS\BMS\bin\Debug\Google.Protobuf.pdb
+D:\dotnet files\BMS\BMS\bin\Debug\Google.Protobuf.xml
+D:\dotnet files\BMS\BMS\bin\Debug\K4os.Compression.LZ4.xml
+D:\dotnet files\BMS\BMS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\dotnet files\BMS\BMS\bin\Debug\K4os.Hash.xxHash.xml
+D:\dotnet files\BMS\BMS\bin\Debug\MySql.Data.xml
+D:\dotnet files\BMS\BMS\bin\Debug\System.Buffers.xml
+D:\dotnet files\BMS\BMS\bin\Debug\System.Memory.xml
+D:\dotnet files\BMS\BMS\bin\Debug\System.Numerics.Vectors.xml
+D:\dotnet files\BMS\BMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.csproj.CopyComplete
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.Form2.resources
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.view_pd.resources
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.view_armoury.resources
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.view_gd.resources
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.new_dutylog.resources
+D:\dotnet files\BMS\BMS\bin\Debug\BMS.exe.manifest
+D:\dotnet files\BMS\BMS\bin\Debug\BMS.application
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.exe.manifest
+D:\dotnet files\BMS\BMS\obj\Debug\BMS.application
+D:\dotnet_files\BMS\BMS\bin\Debug\BMS.exe.config
+D:\dotnet_files\BMS\BMS\bin\Debug\BMS.exe.manifest
+D:\dotnet_files\BMS\BMS\bin\Debug\BMS.application
+D:\dotnet_files\BMS\BMS\bin\Debug\BMS.exe
+D:\dotnet_files\BMS\BMS\bin\Debug\BMS.pdb
+D:\dotnet_files\BMS\BMS\bin\Debug\BouncyCastle.Crypto.dll
+D:\dotnet_files\BMS\BMS\bin\Debug\Google.Protobuf.dll
+D:\dotnet_files\BMS\BMS\bin\Debug\K4os.Compression.LZ4.dll
+D:\dotnet_files\BMS\BMS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\dotnet_files\BMS\BMS\bin\Debug\K4os.Hash.xxHash.dll
+D:\dotnet_files\BMS\BMS\bin\Debug\MySql.Data.dll
+D:\dotnet_files\BMS\BMS\bin\Debug\System.Buffers.dll
+D:\dotnet_files\BMS\BMS\bin\Debug\System.Memory.dll
+D:\dotnet_files\BMS\BMS\bin\Debug\System.Numerics.Vectors.dll
+D:\dotnet_files\BMS\BMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dotnet_files\BMS\BMS\bin\Debug\BouncyCastle.Crypto.xml
+D:\dotnet_files\BMS\BMS\bin\Debug\Google.Protobuf.pdb
+D:\dotnet_files\BMS\BMS\bin\Debug\Google.Protobuf.xml
+D:\dotnet_files\BMS\BMS\bin\Debug\K4os.Compression.LZ4.xml
+D:\dotnet_files\BMS\BMS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\dotnet_files\BMS\BMS\bin\Debug\K4os.Hash.xxHash.xml
+D:\dotnet_files\BMS\BMS\bin\Debug\MySql.Data.xml
+D:\dotnet_files\BMS\BMS\bin\Debug\System.Buffers.xml
+D:\dotnet_files\BMS\BMS\bin\Debug\System.Memory.xml
+D:\dotnet_files\BMS\BMS\bin\Debug\System.Numerics.Vectors.xml
+D:\dotnet_files\BMS\BMS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.csproj.AssemblyReference.cache
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.csproj.SuggestedBindingRedirects.cache
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.Form1.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.Form2.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.new_dutylog.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.view_gd.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.view_armoury.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.home.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.add_pd.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.login.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.new_gdlog.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.calculators.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.update_qm.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.update_armoury.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.Properties.Resources.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.view_pd.resources
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.csproj.GenerateResource.cache
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.csproj.CoreCompileInputs.cache
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.exe.manifest
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.application
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.csproj.CopyComplete
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.exe
+D:\dotnet_files\BMS\BMS\obj\Debug\BMS.pdb
